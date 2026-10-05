@@ -1,0 +1,7 @@
+streamlit
+pandas
+scikit-learn
+streamlit-webrtc
+SpeechRecognition
+av
+numpy
